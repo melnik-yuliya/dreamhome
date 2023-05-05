@@ -1,14 +1,12 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 
 <head>
 	<title>Find Your Dream Home</title>
 	<meta charset="UTF-8">
 	<meta name="format-detection" content="telephone=no">
-	<!-- <style>body{opacity: 0;}</style> -->
-	<link rel="stylesheet" href="css/style.min.css?_v=20230503131226">
+	<link rel="stylesheet" href="css/style.min.css?_v=20230505193709">
 	<link rel="shortcut icon" href="favicon.ico">
-	<!-- <meta name="robots" content="noindex, nofollow"> -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1">
 </head>
 
@@ -28,11 +26,11 @@
 									Projects</a>
 								<span class="arrow _icon-arr-small"></span>
 								<ul class="sub-menu__list">
-									<li class="sub-menu__link"><a href="home.html" target="_blank">Estaing</a></li>
-									<li class="sub-menu__link"><a href="home.html" target="_blank">Montego Bay</a></li>
-									<li class="sub-menu__link"><a href="home.html" target="_blank">Hanty</a></li>
-									<li class="sub-menu__link"><a href="home.html" target="_blank">Blanca</a></li>
-									<li class="sub-menu__link"><a href="home.html" target="_blank">Woody</a></li>
+									<li class="sub-menu__link"><a href="home.html">Estaing</a></li>
+									<li class="sub-menu__link"><a href="home.html">Montego Bay</a></li>
+									<li class="sub-menu__link"><a href="home.html">Hanty</a></li>
+									<li class="sub-menu__link"><a href="home.html">Blanca</a></li>
+									<li class="sub-menu__link"><a href="home.html">Woody</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -48,8 +46,8 @@
 				<picture><source srcset="img/Rectangle.webp" type="image/webp"><img class="jarallax-img" src="img/Rectangle.jpg" alt="house"></picture>
 				<div class="fullscreen__body">
 					<div class="fullscreen__text">
-						<h1 class="fullscreen__title main-title">Find Your <span class="title-span"> Dream Home</span> @ San
-							Diego</h1>
+						<h1 class="fullscreen__title main-title">Find&nbsp;Your <span class="title-span"> Dream Home</span>
+							@&nbsp;San&nbsp;Diego</h1>
 					</div>
 				</div>
 			</section>
@@ -878,9 +876,8 @@
 					</div>
 				</div>
 
-				<script src="https://api-maps.yandex.ru/2.1/?apikey=156fda57-c49d-45e7-93b9-eff7fd7bbb1c&lang=en_US&_v=20230503131226" type="text/javascript">
-				</script>
-				<script type="text/javascript">
+				<script src="https://api-maps.yandex.ru/2.1/?apikey=156fda57-c49d-45e7-93b9-eff7fd7bbb1c&lang=en_US&_v=20230505193709"></script>
+				<script>
 					ymaps.ready(function() {
 						var myMap = new ymaps.Map("map", {
 							center: [32.7174202, -117.1627728],
@@ -896,16 +893,15 @@
 
 							hasBalloon: false,
 							hideIconOnBalloonOpen: false,
-							// Необходимо указать данный тип макета.
+
 							iconLayout: 'default#imageWithContent',
-							// Своё изображение иконки метки.
+
 							iconImageHref: 'img/icons/map-ico.svg',
-							// Размеры метки.
+
 							iconImageSize: [40, 40],
-							// Смещение левого верхнего угла иконки относительно
-							// её "ножки" (точки привязки).
+
 							iconImageOffset: [-20, -20],
-							// Смещение слоя с содержимым относительно слоя с картинкой.
+
 							iconContentOffset: [0, 0],
 						});
 						myMap.geoObjects.add(myPlacemark);
@@ -916,9 +912,9 @@
 				</script>
 
 			</section>
-			<section id="about" data-watch="navigator" data-watch-threshold="0.5" class="about__fullscreen jarallax">
+			<section class="about__fullscreen jarallax" id="about" data-watch="navigator" data-watch-threshold="0.5">
 				<picture><source srcset="img/about.webp" type="image/webp"><img class="jarallax-img" src="img/about.jpg" alt="city"></picture>
-				<div class="fullscreen__body">
+				<div class="about__body">
 					<div class="about__text">
 						<div class="title-item about-item">
 							<h2 class="about_title title">About Us</h2>
@@ -951,57 +947,55 @@
 					</div>
 				</div>
 			</section>
-			<section id="project" data-watch="navigator" data-watch-threshold="0.5" class="project-section">
-				<div class="project-section__fullscreen">
-					<div class="project-section__body">
-						<div class="project-section__content">
-							<div class="project-section__text">
-								<h2 class="project-title title">Other Projects</h2>
-								<p class="project-text title-text">Other projects by us in different locations </p>
-							</div>
-							<div class="projects-container">
-								<div class="swiper-wrapper">
-									<div class="swiper-slide" style="background-image:url(img/slider/sld2.jpg)">
-										<a href="home.html" class="slider-text">
-											<h3 class="name">Estaing</h3>
-											<span>FRANCE</span>
-										</a>
-									</div>
-									<div class="swiper-slide" style="background-image:url(img/slider/sld1.jpg)">
-										<a href="home.html" class="slider-text">
-											<h3 class="name">Montego Bay</h3>
-											<span>JAMAICA</span>
-										</a>
-									</div>
-									<div class="swiper-slide" style="background-image:url(img/slider/sld3.jpg)">
-										<a href="home.html" class="slider-text">
-											<h3 class="name">Hanty</h3>
-											<span>ITALIA</span>
-										</a>
-									</div>
-									<div class="swiper-slide" style="background-image:url(img/slider/sld4.jpg)">
-										<a href="home.html" class="slider-text">
-											<h3 class="name">Estaing</h3>
-											<span>FRANCE</span>
-										</a>
-									</div>
-									<div class="swiper-slide" style="background-image:url(img/slider/sld5.jpg)">
-										<a href="home.html" class="slider-text">
-											<h3 class="name">Blanca</h3>
-											<span>SWITZERLAND</span>
-										</a>
-									</div>
-									<div class="swiper-slide" style="background-image:url(img/slider/sld6.jpg)">
-										<a href="home.html" class="slider-text">
-											<h3 class="name">Woody</h3>
-											<span>BELGIUM</span>
-										</a>
-									</div>
+			<section id="project" data-watch="navigator" data-watch-threshold="0.5" class="project-section__fullscreen">
+				<div class="project-section__body">
+					<div class="project-section__content">
+						<div class="project-section__text">
+							<h2 class="project-title title">Other Projects</h2>
+							<p class="project-text title-text">Other projects by us in different locations </p>
+						</div>
+						<div class="projects-container">
+							<div class="swiper-wrapper">
+								<div class="swiper-slide" style="background-image:url(img/slider/sld2.jpg)">
+									<a href="home.html" class="slider-text">
+										<h3 class="name">Estaing</h3>
+										<span>FRANCE</span>
+									</a>
 								</div>
-								<div class="swiper-button-prev"></div>
-								<div class="swiper-button-next"></div>
-								<div class="swiper-pagination"></div>
+								<div class="swiper-slide" style="background-image:url(img/slider/sld1.jpg)">
+									<a href="home.html" class="slider-text">
+										<h3 class="name">Montego Bay</h3>
+										<span>JAMAICA</span>
+									</a>
+								</div>
+								<div class="swiper-slide" style="background-image:url(img/slider/sld3.jpg)">
+									<a href="home.html" class="slider-text">
+										<h3 class="name">Hanty</h3>
+										<span>ITALIA</span>
+									</a>
+								</div>
+								<div class="swiper-slide" style="background-image:url(img/slider/sld4.jpg)">
+									<a href="home.html" class="slider-text">
+										<h3 class="name">Estaing</h3>
+										<span>FRANCE</span>
+									</a>
+								</div>
+								<div class="swiper-slide" style="background-image:url(img/slider/sld5.jpg)">
+									<a href="home.html" class="slider-text">
+										<h3 class="name">Blanca</h3>
+										<span>SWITZERLAND</span>
+									</a>
+								</div>
+								<div class="swiper-slide" style="background-image:url(img/slider/sld6.jpg)">
+									<a href="home.html" class="slider-text">
+										<h3 class="name">Woody</h3>
+										<span>BELGIUM</span>
+									</a>
+								</div>
 							</div>
+							<div class="swiper-button-prev"></div>
+							<div class="swiper-button-next"></div>
+							<div class="swiper-pagination"></div>
 						</div>
 					</div>
 				</div>
@@ -1011,10 +1005,9 @@
 				<div class="contacts__body">
 					<div class="contacts__content">
 						<div class="contacts__column title-column">
-							<!--<div class="form-decor"></div>-->
-							<div class="contacts__title main-title">
+							<h2 class="contacts__title main-title">
 								Did You Find Your <span class="title-span">Dream Home?</span>
-							</div>
+							</h2>
 							<p class="contacts__text">Thank you for getting in touch! if you find your dream home connect
 								with us
 							</p>
@@ -1233,7 +1226,7 @@
 			</div>
 		</div>
 	</div>
-	<script src="js/app.min.js?_v=20230503131226"></script>
+	<script src="js/app.min.js?_v=20230505193709"></script>
 
 
 

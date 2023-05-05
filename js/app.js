@@ -4779,9 +4779,13 @@
                 slidesPerView: "auto",
                 centeredSlides: true,
                 loop: true,
-                speed: 1400,
+                speed: 800,
                 resistanceRatio: 0,
                 spaceBetween: 120,
+                keyboard: {
+                    enabled: true,
+                    onlyInViewport: false
+                },
                 navigation: {
                     prevEl: ".projects-container .swiper-button-prev",
                     nextEl: ".projects-container .swiper-button-next"
@@ -4800,7 +4804,11 @@
                 slidesPerGroup: 1,
                 spaceBetween: 5,
                 loop: false,
-                speed: 1400,
+                speed: 800,
+                keyboard: {
+                    enabled: true,
+                    onlyInViewport: false
+                },
                 mousewheel: {
                     invert: true
                 },
