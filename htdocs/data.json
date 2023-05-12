@@ -1,0 +1,511 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": 0,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.7165210,
+					-117.1656728
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "School"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 1,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71605362273838,
+					-117.16419567707247
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "School"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 2,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.7188080,
+					-117.1627728
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "School"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 3,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.7188480,
+					-117.1622728
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "School"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 4,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71706037273243,
+					-117.16523369196126
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc1.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Hospital"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 5,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.717244035386535,
+					-117.16577124288746
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc1.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Hospital"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 6,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71650258020716,
+					-117.16676791551778
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc1.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Hospital"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 7,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71605362273838,
+					-117.16419567707247
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc2.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Restaurants"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 8,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71694019823384,
+					-117.16420104149053
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc2.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Restaurants"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 9,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.718946324014695,
+					-117.16706690772882
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc3.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Groceries"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 10,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71972176928289,
+					-117.16224429592009
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc3.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Groceries"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 11,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71703262501292,
+					-117.16536638721341
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc3.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Groceries"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 12,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.718804330066003,
+					-117.15956859618942
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc4.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": ">Bank"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 13,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.716053622738308,
+					-117.16419567007247
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc4.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Bank"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 14,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71394289646704,
+					-117.15684846183023
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc4.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Bank"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 15,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.716192249699684,
+					-117.16066292746705
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc5.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Gym"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 16,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.717244035386535,
+					-117.16577194988746
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc5.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Gym"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 17,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71694019823984,
+					-117.16420184149053
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc6.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Police Station"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 18,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71729874846206,
+					-117.15607098563397
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc6.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Police Station"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 19,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.72133470939765,
+					-117.16452533844892
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc6.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Police Station"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 20,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.721107975810035,
+					-117.15808800682317
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc7.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Bus Stop"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 21,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.719721769222809,
+					-117.16224429592009
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc7.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Bus Stop"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 22,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.71920339110927,
+					-117.16006211264813
+				]
+			},
+			"options": {
+				"iconLayout": "default#image",
+				"iconImageHref": "img/icons/marc7.png",
+				"iconImageSize": [
+					54,
+					54
+				]
+			},
+			"properties": {
+				"hintContent": "Bus Stop"
+			}
+		}
+	]
+}
